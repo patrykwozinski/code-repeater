@@ -1,6 +1,7 @@
 {
     "name": "freeq/php-retrier",
     "type": "library",
+    "description": "Protect your callback functions with retry",
     "require": {
         "php": "7.1"
     },
