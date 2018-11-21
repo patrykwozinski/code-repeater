@@ -9,6 +9,17 @@
         "phpunit/phpunit": "^7.4"
     },
     "license": "MIT",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Freeq\\PhpRetrier\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Freeq\\PhpRetrier\\Tests\\": "tests/"
+        }
+    },
     "authors": [
         {
             "name": "Patryk Woziński",
