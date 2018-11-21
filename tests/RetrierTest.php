@@ -7,12 +7,12 @@
  */
 declare(strict_types=1);
 
-namespace Freeq\PhpRetrier\Tests;
+namespace PhpRetrier\Tests;
 
 
 use PHPUnit\Framework\TestCase;
 
-class RetrierTest extends TestCase
+final class RetrierTest extends TestCase
 {
     public function test_x(): void
     {

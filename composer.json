@@ -12,12 +12,12 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "Freeq\\PhpRetrier\\": "src/"
+            "PhpRetrier\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Freeq\\PhpRetrier\\Tests\\": "tests/"
+            "Tests\\PhpRetrier\\": "tests/"
         }
     },
     "authors": [
