@@ -1,7 +1,7 @@
 {
     "name": "freeq/recruitment-analyzer",
     "type": "project",
-    "description": "Recruitment analyzer for HR",
+    "description": "Recruitment analyzer for developers",
     "require": {
         "php": "~7.1"
     },
